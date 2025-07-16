@@ -64,8 +64,6 @@ You can easily plug in any LLM that supports prompting. This repo includes confi
 - 🦙 Your local LLMs via API or Hugging Face Transformers
 - 💬 ChatGPT, Claude, DeepSeek, and Gemini.
 
-Prompt formats can be edited in the `templates/` directory.
-
 ---
 
 ## 💡 Sample Output
