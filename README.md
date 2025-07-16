@@ -55,50 +55,14 @@ LLMs4OL-2025-Task-B-DREAM_LLMs/
 
 ## 🧩 Usage
 
-### ▶ Automatic (Batch) Run
-
-Run all datasets using zero-shot prompting:
-
-```bash
-bash test_auto.sh
-```
-
-- Queries the LLM using all datasets
-- Saves predictions and logs to `outputs/`
-- Produces a final evaluation report (macro-F1, accuracy)
-
-### 🛠 Manual (Interactive) Run
-
-For custom input or specific LLM selection:
-
-```bash
-bash test_manual.sh
-```
-
-This script allows:
-- Selecting dataset and model
-- Running inference interactively
-- Viewing result immediately
-
----
-
-## 🧪 Evaluation Metrics
-
-- **Macro F1-score**
-- **Term-level Accuracy**
-- Per-class **Precision**, **Recall**, and **F1**
-
-Evaluations are performed by comparing model outputs with ground truth labels using the scripts in `src/evaluate.py`.
-
 ---
 
 ## 🧠 Models Supported
 
 You can easily plug in any LLM that supports prompting. This repo includes configurations for:
 
-- 💬 GPT-4 / GPT-3.5 (OpenAI)
-- 🦙 Local LLMs via API or Hugging Face Transformers
-- 🤖 Extendable to Claude, Gemini, DeepSeek, etc.
+- 🦙 Your local LLMs via API or Hugging Face Transformers
+- 💬 ChatGPT, Claude, DeepSeek, and Gemini.
 
 Prompt formats can be edited in the `templates/` directory.
 
@@ -108,7 +72,7 @@ Prompt formats can be edited in the `templates/` directory.
 
 ```
 Input Term: "galaxy"
-Candidate Types: ["astronomical_object", "chemical"]
+Candidate Types: ["astronomical_object", "chemical", ...]
 LLM Prediction: "astronomical_object"
 Correct: ✅
 ```
@@ -120,8 +84,7 @@ Correct: ✅
 To improve accuracy:
 
 - Add **few-shot examples** in prompt templates
-- Apply **ensemble** methods (e.g., majority vote, deliberation)
-- Incorporate **retrieval-augmented prompting** (RAG)
+- Apply **ensemble** methods (deliberation step)
 - Use **fine-tuned local models** (if available)
 
 This repo uses a **deliberation-based ensemble** approach (DREAM_LLMs) to combine the strengths of multiple LLMs.
