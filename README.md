@@ -83,7 +83,6 @@ To improve accuracy:
 
 - Add **few-shot examples** in prompt templates
 - Apply **ensemble** methods (deliberation step)
-- Use **fine-tuned local models** (if available)
 
 This repo uses a **deliberation-based ensemble** approach (DREAM_LLMs) to combine the strengths of multiple LLMs.
 
