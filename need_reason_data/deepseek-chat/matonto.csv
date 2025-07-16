@@ -1,0 +1,38 @@
+id,term,types
+TT_5a5763f5,newton,force unit
+TT_c4f339b8,newton meter,unit
+TT_ce5417fc,newton per meter,unit
+TT_25014bd4,coulomb per square meter,electric charge unit
+TT_46dad9e9,m2·m-2,unit
+TT_49ab10c7,mole per cubic meter,amount of substance unit
+TT_ab5a8ad6,per ampere,unit
+TT_08f9b767,farad,capacitance unit
+TT_4cff4fec,dalton,mass unit
+TT_ce2b537c,second power 4,unit
+TT_dae2a7a6,per kilogram,unit
+TT_f8e74193,radian,plane angle unit
+TT_8a920749,joule per mole,molar energy unit
+TT_a0402f84,becquerel,unit
+TT_14fbac11,byte,information unit
+TT_f1361175,coulomb per kilogram,electric charge unit
+TT_981df168,ampere per square meter,electric current unit
+TT_4c87c381,unit_kelvin_-1,temperature unit
+TT_f15ef7cd,joule,energy unit
+TT_40a02db8,meter squared,area unit
+TT_d714834e,unit_electron_volt,energy unit
+TT_a9f30802,joule per kilogram per kelvin,entropy unit
+TT_8182f530,per steradian,solid angle unit
+TT_ab85a470,second per mole,unit
+TT_b8e7ebae,coulomb per cubic meter,electric charge unit
+TT_9aec366c,joule per mole per kelvin,entropy unit
+TT_b9a7fd17,lumen,luminous flux unit
+TT_5ba78869,hertz,unit
+TT_9e7440e4,watt per meter per kelvin,unit
+TT_177b58ec,micrometer,length unit
+TT_e707b15a,unit_gigapascal,pressure unit
+TT_fac88931,unit_megapascal,pressure unit
+TT_300a8cf0,reciprocal second,unit
+TT_e2c90a21,fahrenheit,temperature unit
+TT_71796178,tesla,magnetic flux density unit
+TT_e8ee7e46,watt,power unit
+TT_4e46b6d7,gray per second,absorbed dose unit

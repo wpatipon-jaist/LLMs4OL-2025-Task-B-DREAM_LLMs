@@ -1,0 +1,88 @@
+id,term,types
+TT_d539e3e1,eBioscience,manufacturer
+TT_65da10e1,pT3 (lung),pathologic primary tumor stage for lung according to AJCC 7th edition
+TT_a3dc97d0,3: symptomatic in bed more than 50% of the day but not bed ridden,Karnofsky score value specification
+TT_05e33e44,Antigenix,manufacturer
+TT_1ea4dbdc,metadata complete,curation status specification
+TT_a9116815,100: asymptomatic,Karnofsky score value specification
+TT_0f6a960e,Cytopeia,manufacturer
+TT_ea06d5c3,Edingburgh handedness inventory,categorical label
+TT_47e2f629,BioGents,manufacturer
+TT_c69005f8,year,time unit
+TT_da557411,Stage IA (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_65393c3a,tar,substance unit
+TT_163f5980,pT2a (ovary),pathologic primary tumor stage for ovary according to AJCC 7th edition
+TT_ccb5234f,Stage 1A (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_90fdf1cb,Advanced Instruments Inc. (AI Companies),manufacturer
+TT_93c33c2e,Stage IIIB (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_2fd89cce,nanomole,concentration unit
+TT_e67be5a3,Stage IIB (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_9b926ad9,pT1b (kidney),pathologic primary tumor stage for kidney according to AJCC 7th edition
+TT_b9588c69,Bruker Corporation,manufacturer
+TT_ad01c533,pM1b (lung),pathologic distant metastases stage for lung according to AJCC 7th edition
+TT_9ccf6d5f,G3: Poorly differentiated,histologic grade according to AJCC 7th edition
+TT_0bc56139,pT1c (ovary),pathologic primary tumor stage for ovary according to AJCC 7th edition
+TT_ed5377fb,Stage Unknown (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_2afe465c,Luminex,manufacturer
+TT_cdedd71b,cM1 (kidney),pathologic distant metastases stage for kidney according to AJCC 7th edition
+TT_cd693ff4,Occult Carcinoma (AJCC 7th),clinical tumor stage group according to AJCC 7th edition
+TT_d0334c13,Stage IIC (AJCC 7th),clinical tumor stage group according to AJCC 7th edition
+TT_cdbdc786,pN1 (kidney),pathologic lymph node stage for kidney according to AJCC 7th edition
+TT_433908f2,"Sysmex Corporation, Kobe, Japan",manufacturer
+TT_2011db40,failed exploratory term,obsolescence reason specification
+TT_084634b3,metadata incomplete,curation status specification
+TT_850875ef,count per molar second,rate unit
+TT_c47ba797,pT3a (kidney),pathologic primary tumor stage for kidney according to AJCC 7th edition
+TT_a1509e48,organizational term,organization
+TT_fcd2848f,nanoliter,volume unit
+TT_80f3d792,pT1 (kidney),pathologic primary tumor stage for kidney according to AJCC 7th edition
+TT_60e75ce9,Stage IIIC (AJCC 7th),clinical tumor stage group according to AJCC 7th edition
+TT_efce7b98,pN2b (colon),pathologic lymph node stage for colon and rectum according to AJCC 7th edition
+TT_43c5fb24,pT2 (ovary),pathologic primary tumor stage for ovary according to AJCC 7th edition
+TT_b05448bd,milliliter,volume unit
+TT_91c750a8,4: bed ridden,Karnofsky score value specification
+TT_83dd02db,pT2b (lung),pathologic primary tumor stage for lung according to AJCC 7th edition
+TT_0039c388,volume percentage,volume unit
+TT_31d42069,Gating-ML,data format specification
+TT_18e34e9c,cM1a (colon),pathologic distant metastases stage for colon according to AJCC 7th edition
+TT_4df6ebf6,cM1 (colon),pathologic distant metastases stage for colon according to AJCC 7th edition
+TT_8fc89d82,pT1 (lung),pathologic primary tumor stage for lung according to AJCC 7th edition
+TT_121bebb2,Stage 0 (AJCC 7th),clinical tumor stage group according to AJCC 7th edition
+TT_acb30e3a,microliter,volume unit
+TT_ced2dffc,U.S. Food and Drug Administration,organization
+TT_5cfcfb4b,2: symptomatic but in bed less than 50% of the day,Karnofsky score value specification
+TT_3f3c582e,terms merged,obsolescence reason specification
+TT_ebe87765,pN1c (colon),pathologic lymph node stage for colon and rectum according to AJCC 7th edition
+TT_3b85bb65,cM1 (ovary),pathologic distant metastases stage for ovary according to AJCC 7th edition
+TT_74c463fc,pending final vetting,curation status specification
+TT_cd20bf04,Stage 1B (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_9848d593,80-90: symptomatic but fully ambulatory,Karnofsky score value specification
+TT_049df733,GenePattern module HierarchicalClustering,GenePattern software
+TT_f404121d,Illumina,manufacturer
+TT_d45eb816,Partec,manufacturer
+TT_2fa33051,right handed,categorical label
+TT_2cb446e6,ACS,organization
+TT_eec8e57b,hour,time unit
+TT_81deaaf0,Stage IIA (AJCC 7th),clinical tumor stage group according to AJCC 7th edition
+TT_fafe3ddf,0: asymptomatic,Karnofsky score value specification
+TT_afb73856,pM1 (colon),pathologic distant metastases stage for colon according to AJCC 7th edition
+TT_3831734a,Stage 4 (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_b1d25f4b,GenePattern module PeakMatch,GenePattern software
+TT_e2231f84,GenePattern HierarchicalClusteringViewer data visualization,clustered data visualization
+TT_b3dc9f32,microliters per minute,rate unit
+TT_d7b3544b,pN1b (colon),pathologic lymph node stage for colon and rectum according to AJCC 7th edition
+TT_d6dcaedc,AES Chemunex,manufacturer
+TT_1be9b5b1,pN1 (lung),pathologic lymph node stage for lung according to AJCC 7th edition
+TT_ea731405,GenePattern peak matching,GenePattern software
+TT_fcf479b0,degree Fahrenheit,temperature unit
+TT_ba88c0c2,Stage IB (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_e5315cd9,Stage 2C (FIGO),International Federation of Gynecology and Obstetrics cervical cancer stage value specification
+TT_ed4e48b5,G3 (WHO),histologic grade for ovarian tumor according to the World Health Organization
+TT_f8bc4ca1,Dako Cytomation,manufacturer
+TT_95daf138,G4: Undifferentiated,histologic grade according to AJCC 7th edition
+TT_77002ba2,pT3 (ovary),pathologic primary tumor stage for ovary according to AJCC 7th edition
+TT_a878ad94,G2 (Fuhrman),histologic grade according to the Fuhrman Nuclear Grading System
+TT_cb7b354a,GenePattern SVM,GenePattern software
+TT_4dc447c1,pN2 (colon),pathologic lymph node stage for colon and rectum according to AJCC 7th edition
+TT_bb059332,GenePattern module PCA,GenePattern software
+TT_f3dcf0ad,pM1b (colon),pathologic distant metastases stage for colon according to AJCC 7th edition

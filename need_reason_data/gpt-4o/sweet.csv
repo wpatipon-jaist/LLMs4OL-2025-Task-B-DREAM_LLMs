@@ -1,0 +1,627 @@
+id,term,types
+TT_465e8904,electronegativity,electromagnetic quantity
+TT_01c7707e,sigma,dimensionless ratio
+TT_b20cb478,b8 class,b class
+TT_136ee6bc,ferroelectric,physical state
+TT_e2be01a5,category2,saffir simpson scale
+TT_d67b8385,watt per meter squared per steradian,energy flux wm2
+TT_3a87c4f0,inhibitor,chemical role
+TT_23f84dcf,eutrophic,biological state
+TT_db0ed17b,micronutrient,biological role
+TT_343e2868,signer,representative role
+TT_8b290782,311.7mya,epoch
+TT_17b968f2,conductor,conduction role
+TT_044d65d3,non newtonian,physical state
+TT_f367c52e,tonian,era
+TT_e61af733,enzyme,chemical role
+TT_fca5f9f9,acidify,chemical state
+TT_3390cdcb,paleogene,era
+TT_ffe53db9,x2 class,x class
+TT_152f3a8d,beryllium,alkaline earth metal
+TT_03db7b11,oxidizer,chemical role
+TT_ecb9fcc7,landward,horizontal direction
+TT_93eb6d00,cfc,cfc
+TT_13327caf,serializes,format
+TT_3edea2ca,93.6mya,epoch
+TT_0ccb2235,suspended,physical state
+TT_7a45e8bb,silicate,inorganic compound
+TT_432d65d3,contributor,representative role
+TT_a0dc5361,binder,chemical role
+TT_bee9eb1d,0.126mya,epoch
+TT_e8d6b32f,uva,spectral band
+TT_b5b09234,dendritic,shape
+TT_0d8981ec,23.03mya,epoch
+TT_7ce655e9,dim,trust
+TT_c926cc33,polycrystalline,physical state
+TT_ede7b3f1,fcaa,environmental standards body
+TT_7ff90784,acceptable,environmental standard
+TT_8b5c0524,flake,substance form
+TT_53c5bd17,unconfident,trust
+TT_d0d2658e,triassic,era
+TT_30dfa770,x13 class,x class
+TT_3a11961a,netcdf3,self describing format
+TT_6135b3e1,pitch,angular direction
+TT_c266fa07,extraordinary,trust
+TT_9de88d2d,ascii,format
+TT_ea721ede,x37 class,x class
+TT_f7bb9b77,biomarker,biological role
+TT_03ced6f3,uphill,vertical direction
+TT_76cbacc3,underwater,moisture state
+TT_ad1bbe57,c10h16,hydrocarbon
+TT_5c033064,hdfeos2,self describing format
+TT_1091e607,he1083,spectral line
+TT_bcb95918,rough,consistence property
+TT_babaeba5,x8 class,x class
+TT_d1fb6213,hco3minus,ion
+TT_9c8ac160,negative,binary state
+TT_0c6f7ee7,potable,chemical state
+TT_22e1ddd0,remote,spatial configuration
+TT_7e6b4b4a,thanetian,epoch
+TT_8c4a8268,hauterivian,epoch
+TT_4722ce3e,earth ionosphere,ion
+TT_d5e03d4a,x25 class,x class
+TT_9e372b05,rust,chemical state
+TT_e179b811,even,binary state
+TT_5b035ac1,solar constant,physical constant
+TT_8b4cdf58,west,horizontal direction
+TT_99e68702,ordovician,era
+TT_ab07d5e8,hour,base unit
+TT_f21c7a7b,geologic,geosphere
+TT_583c6331,he4,isotope
+TT_b5a3b61a,meter cubed per kilogram,unit derived by raising to power
+TT_7f00cf84,von karman constant,physical constant
+TT_2c72a2bd,precise,trust
+TT_551094cc,cfc114,cfc
+TT_b8e624c9,semi precious,substance form
+TT_ec64041e,light,radiation medium interaction quantity
+TT_a2c7b4bc,ediacaran,era
+TT_391a36c6,lagrangian,spatial reference system
+TT_49de527d,pan,substance form
+TT_b4ab2f6c,lutetian,epoch
+TT_f255806a,moscovian,epoch
+TT_947c1323,gulf stream,earth western boundary current
+TT_4b97f1ec,clockwise,angular direction
+TT_228c9a24,autumn,season
+TT_a4d6b9e2,ef0,enhanced fujita scale
+TT_eda17fd6,priabonian,epoch
+TT_2cc3ee4e,hydroperoxyl,peroxide
+TT_759d97c4,stratified,fluid equilibrium state
+TT_8f2fc778,aphelion,orbital configuration
+TT_d1e324ef,ch4,hydrocarbon
+TT_8eba593b,cl2o2,inorganic compound
+TT_49557da8,millimeter,unit
+TT_66903bd5,indurated,substance form
+TT_b003bc45,per pascal,unit derived by shifting
+TT_0bfde7be,unpredictable,trust
+TT_81173ce7,cambrian stage3,epoch
+TT_fac9ffac,unscheduled,trust
+TT_1c3cb20d,disturbed,wave state
+TT_a2f64713,netcdf4,self describing format
+TT_84664adb,amorphous,substance form
+TT_bda5805a,dominant,representative role
+TT_9a890078,neogene,era
+TT_a4fc1bf8,anthropogenic,impact
+TT_e03d6775,suboptimal,trust
+TT_238f77a8,tiny,size
+TT_6de53a88,cadmium,transition metal
+TT_3e9eaf0e,category4,saffir simpson scale
+TT_c99b05db,benguela current,earth eastern boundary current
+TT_6924dd35,spectral,spectral band
+TT_b463247f,permian,era
+TT_11ac2bd4,acenaphthylene,hydrocarbon
+TT_26b1777c,dwb,dry winter climate
+TT_c7f6cba8,443.7mya,epoch
+TT_13acc069,c band,frequency band mhz
+TT_71b92c17,2300mya,epoch
+TT_498b53c9,thermal plasma,thermodynamic state
+TT_efe70492,basin groups,era
+TT_485cb62f,ppm,dimensionless ratio
+TT_0bf5fc0b,x28 class,x class
+TT_1c3ef1e4,submitter,representative role
+TT_a7863b9a,regular,trust
+TT_7ea00ec3,bzip2,compression method
+TT_30fdd67b,clono2,inorganic compound
+TT_b7fbffd3,earth mesopelagic zone,bathypelagic zone
+TT_c03ee39c,1.806mya,epoch
+TT_e147d398,bwk,dry winter climate
+TT_4e3c03ca,dynamic,system state
+TT_cfa5f1e6,azimuthal equidistant,spatial reference system
+TT_93b3fbeb,spawning ground,habitat
+TT_48d53d50,halon1301,halon
+TT_6e26f239,tenuous,consistence property
+TT_ac3340ac,reynolds number,dimensionless ratio
+TT_c0b1f0dc,upflow,vertical direction
+TT_876e178a,joule,unit
+TT_29a10f10,analyzed,retrieval approach
+TT_a7579eb1,unacceptable,environmental standard
+TT_5216aacc,diluted,chemical state
+TT_7092fa8b,dry ice,solid state
+TT_fd1d6b94,inert,chemical state
+TT_13835c44,hazard,impact
+TT_82c035d5,x16 class,x class
+TT_99aa35a9,instance,Instant
+TT_cc8239f8,kelvin,unit
+TT_c3122e54,hbeta,spectral line
+TT_2d6bbd7d,ef5,enhanced fujita scale
+TT_81671ca6,sidereal,time frame
+TT_8ca71121,hydraulic gradient,hydrogeological property
+TT_449c56bb,connected,connectivity
+TT_e57fb4fb,non thermal plasma,thermodynamic state
+TT_689a2c23,montreal protocol,environmental law
+TT_590b4d40,plastic,substance form
+TT_2bbcc3cb,cak,format
+TT_42af1091,contaminant,contaminant
+TT_6b955ce9,trapped,wave state
+TT_a59ba01f,pliensbachian,epoch
+TT_9af56f67,253.8mya,epoch
+TT_c2252590,ch3cooh,organic compound
+TT_0a916ef2,hydrobromous acid,inorganic acid
+TT_14debe7d,millenium,era
+TT_1a5d1ce3,vertical,vertical direction
+TT_9a8c04ca,c2h6o,organic compound
+TT_54c60e59,nearby,spatial configuration
+TT_f4a40e4d,indicator,indicator
+TT_ea105023,maximum entropy,thermodynamic state
+TT_7e60eaf9,4600mya,epoch
+TT_65d03cef,explicit,retrieval approach
+TT_a6f221ec,rhaetian,epoch
+TT_1dbfa101,selandian,epoch
+TT_2a177d49,subaqueous,moisture state
+TT_1d20f8f3,299.0mya,epoch
+TT_0b973939,251.0mya,epoch
+TT_93235603,hydrogen cyanide,inorganic compound
+TT_0ea60382,enrich,chemical role
+TT_80eb0b14,imbricated,spatial configuration
+TT_8a35dea3,bartonian,epoch
+TT_ba921809,environmental protection agency,federal governing body
+TT_ab4a1d2a,xls,format
+TT_28165e62,halosteric,thermodynamic state
+TT_d427d188,forage,producer
+TT_61e6d5a1,bashkirian,epoch
+TT_90a49eb6,disaster,impact
+TT_2e260457,th230,isotope
+TT_f3ca47f9,iron oxide,inorganic compound
+TT_5c920fb8,pentad,time frame
+TT_422ba0cb,dichlorodifluoromethane,cfc
+TT_444cb580,acute,biological state
+TT_386ec924,rhuddanian,epoch
+TT_2282ee39,peer reviewed,trust
+TT_4f1c6fe7,drumian,epoch
+TT_a04cec09,meter cubed,unit derived by raising to power
+TT_b8e6880d,terreneuvian,era
+TT_650c1dd0,precambrian,eon
+TT_1d45bcb9,freon12,cfc
+TT_83ca6886,no3minus,ion
+TT_26692b9f,lower jurassic,era
+TT_38b88834,b7 class,b class
+TT_e432bce3,piacenzian,epoch
+TT_6fdd769f,infrared,spectral band
+TT_e31c1951,untrusted,trust
+TT_3ad9cee4,earth troposphere,atmosphere
+TT_6704bb92,beaufort10,beaufort scale
+TT_0e80f3c9,albers conical equal area,spatial reference system
+TT_63262db4,copper,transition metal
+TT_839d6369,per tesla,unit derived by shifting
+TT_0f09cf8c,pcb,contaminant
+TT_d9536b24,brno3,inorganic compound
+TT_419a37a9,prior,provenance role
+TT_879093fb,b3 class,b class
+TT_c6262816,equator,latitude line
+TT_38841047,unpressurized,physical state
+TT_4a2916b8,hybrid sigma,vertical coordinate
+TT_32986cf2,tropical,season
+TT_094dc640,nfma,environmental law
+TT_35d587e7,lower,vertical direction
+TT_0de64f49,radioactivity,radioactive substance
+TT_a06614de,cryptic,trust
+TT_536e1c01,flat,spatial configuration
+TT_ae9a7394,winter,season
+TT_db9a42b9,lux,unit
+TT_b42a538a,short,duration
+TT_8a7f0d7c,radian per second,unit derived by raising to power
+TT_e9bfa8d0,metre,unit
+TT_caf65747,semi,binary state
+TT_35ba8e5b,2800mya,epoch
+TT_4b6372a6,245.9mya,epoch
+TT_551a76a9,minor,role
+TT_433a6162,x4 class,x class
+TT_a57744b1,hno3,inorganic acid
+TT_51efe021,x21 class,x class
+TT_a5a76e1f,total,trust
+TT_2ad655c1,equatorial,latitude band
+TT_f9b19c79,darriwilian,epoch
+TT_b4309245,422.9mya,epoch
+TT_7b667ecd,endogenous,biochemical state
+TT_796a74a4,sun synchronous,orbital configuration
+TT_68e541dd,pt3million_km2,area
+TT_668c3d0d,saturate,chemical state
+TT_5b582857,very,trust
+TT_1c18e3bb,he304,spectral line
+TT_ae66becd,468.1mya,epoch
+TT_0a62e7d6,deciduous,biological state
+TT_ce08b1d0,shattered,wave state
+TT_e2869a95,broad,angular extent
+TT_8ecaee8d,oceanic,moisture state
+TT_c6e62afd,ethene,alkene
+TT_dccbed46,nitric oxide,inorganic compound
+TT_752b69f1,zone code,time zone
+TT_37268046,magnesium,alkaline earth metal
+TT_04e0b6a3,earth thermosphere,atmosphere
+TT_ad7dee2c,fram strait,earth ocean current
+TT_cc9fca33,synoptic,retrieval approach
+TT_44e8bc52,plasma,thermodynamic state
+TT_b36eda6e,proterozoic,eon
+TT_3b6eae65,nearest neighbor,interpolation method
+TT_ef6bdb73,sulfate,inorganic compound
+TT_c4f21e14,triaxial,spatial configuration
+TT_616a783b,dapingian,epoch
+TT_44674a24,gzip,compression method
+TT_594e4c76,bsh,wet summer dry winter climate
+TT_cac64dd4,arcminute,angular coordinate
+TT_64729573,2week,duration
+TT_9acb6bb0,prevention of significant deteriorization,environmental standard
+TT_10ffc87b,longitude,horizontal coordinate
+TT_17afa117,psd,retrieval approach
+TT_46502cd6,arff,format
+TT_6c5c04e8,baroclinic,system state
+TT_ff499be0,hysteresis,thermodynamic state
+TT_00532fc2,farad per meter,unit derived by shifting
+TT_3c00485a,recent,epoch
+TT_f097302a,subordinate,role
+TT_e19227e5,million km2,area
+TT_e0cf60cf,anisotropic,spatial configuration
+TT_ba8eaef6,archean,eon
+TT_6ffae85d,concentric,spatial configuration
+TT_ac0ff00a,biaxial,spatial configuration
+TT_f47a659c,flattend,spatial configuration
+TT_9d4b19e1,quasi neutral,thermodynamic state
+TT_b9cf4a5b,c12,hydrocarbon
+TT_0d16d6ef,emerging,system state
+TT_a9eb0505,past,era
+TT_43cd8189,upper triassic,era
+TT_a31e7083,nfs,geospatial interface protocol
+TT_cdf20def,proven,trust
+TT_b7153dff,watt per meter squared per kelvin,energy flux wm2
+TT_9cdcaa9d,cisuralian,epoch
+TT_13fc695d,visible,spectral band
+TT_ea11cc8f,meter squared per kilogram,unit derived by raising to power
+TT_6c7c19aa,violet,spectral band
+TT_ae016874,510mya,epoch
+TT_0d0e9987,indirect,provenance role
+TT_7404313a,disasterous,impact
+TT_2ead1d3f,deep,depth range km
+TT_bbd3cfac,stationary,system state
+TT_6e8c3afe,upper jurassic,era
+TT_564cdfe4,clox,inorganic compound
+TT_e984cede,trigonal,spatial configuration
+TT_824659f4,free oscillation,wave state
+TT_6cb0388a,void,spatial configuration
+TT_18b12175,upper ordovician,era
+TT_21576447,237.0mya,epoch
+TT_87174f1a,gelasian,epoch
+TT_7a75248d,arctic ocean,earth ocean
+TT_a2e8c926,pollutant standards index,environmental standard
+TT_b6835c45,continental,spatial configuration
+TT_2091a92f,268.0mya,epoch
+TT_66f8101d,lte,thermodynamic state
+TT_0132cc6e,wuchiapingian,epoch
+TT_eddfe9d3,x24 class,x class
+TT_613ffa4a,upper cretaceous,era
+TT_fdf6296a,desalinize,chemical state
+TT_d937cdce,chattian,epoch
+TT_997f0b42,stereographic,spatial reference system
+TT_258b7310,u238,isotope
+TT_195151ca,century,time frame
+TT_e634b4e0,random,trust
+TT_c35addc3,anadromous,biological role
+TT_c45088ab,contained,spatial configuration
+TT_4ea59887,severe,impact
+TT_d5cdb49f,serravallian,epoch
+TT_664dd05f,hybrid height,vertical coordinate
+TT_9dd26ab9,aquitanian,epoch
+TT_4eda8ff9,neon,noble gas
+TT_c3a6dee5,a7 class,a class
+TT_9fcdfe3e,sonic mach number,dimensionless ratio
+TT_1838b11c,deca,prefix
+TT_a167723a,o18,isotope
+TT_1e9ed9ae,far field,spatial source
+TT_366ad7df,rossby number,dimensionless ratio
+TT_d03eec09,photodissociate,chemical role
+TT_e090a1fc,ultraviolet,spectral band
+TT_703bd7c8,down,vertical direction
+TT_5782aa24,trusted,trust
+TT_8e352005,spherical,spatial configuration
+TT_2496d964,ice cap climate,dry winter climate
+TT_e3c314db,eastward,horizontal direction
+TT_67841b01,vulnerable,trust
+TT_9acace53,per kilogram meter squared per second kelvin,unit derived by shifting
+TT_4ff65db6,translucent,consistence property
+TT_52f53eb6,acrylonitrile,organic compound
+TT_597ec3d6,joule per mole per kelvin,unit derived by shifting
+TT_057105f0,california current,earth eastern boundary current
+TT_02158935,acrolein,organic compound
+TT_a8e341cb,halon2402,halon
+TT_eaf26b59,deuterium,isotope
+TT_2eae24b7,133.9mya,epoch
+TT_4363869f,compact,spatial configuration
+TT_639a7302,poision,contaminant
+TT_f7fad713,nmhc,hydrocarbon
+TT_04bcd131,specific retention,hydrogeological property
+TT_d5288fcb,latitude,horizontal coordinate
+TT_f16225dc,h10,spectral line
+TT_c6825c5c,brackish,moisture state
+TT_2ebbbf3e,2.588mya,epoch
+TT_54e29617,published,provenance role
+TT_4610dbef,c2h6,hydrocarbon
+TT_693428c6,ethanol,organic compound
+TT_175c85af,tropics,latitude band
+TT_9b23cc92,cold midlatitude desert climate,dry winter climate
+TT_f7557642,micron,size range micron
+TT_c28bffeb,ethane,hydrocarbon
+TT_389427ae,cold,temperature range
+TT_03554dcb,primary consumer,consumer
+TT_ba644037,391.8mya,epoch
+TT_db03f52d,dwd,dry winter climate
+TT_564eacdc,curator,representative role
+TT_186b1f24,superadiabatic,temperature gradient range
+TT_7f34b856,siderian,era
+TT_a091b375,ohm,unit
+TT_78770291,burn,impact
+TT_d04ed815,clear,consistence property
+TT_d3f17702,weekly,duration
+TT_85709309,sverdrup balance,system state
+TT_206baa40,h2o2,peroxide
+TT_84fd3b77,neritic,habitat
+TT_bb3cad11,sheinwoodian,epoch
+TT_77a1a730,aluminum,post transition metal
+TT_269be637,accurate,trust
+TT_5c769f64,national forest service,federal governing body
+TT_f2483127,ozone,inorganic compound
+TT_eade4643,archivist,representative role
+TT_96912c6c,s32,isotope
+TT_1e14da83,inhomogeneous,spatial configuration
+TT_e0ae6e29,x39 class,x class
+TT_588f1443,275.6mya,epoch
+TT_aaf3d02b,miscible,fluid property
+TT_11eb3e2c,recoverable,retrieval approach
+TT_724318a8,network endian,byte order
+TT_8a8d0873,non methane hydrocarbon,hydrocarbon
+TT_22a414e2,decomposed,chemical state
+TT_e6a5222b,host,representative role
+TT_e4c33673,north pacific gyre,ocean gyre
+TT_5c289d05,normal,binary state
+TT_9d88fc3c,safe,trust
+TT_c2e60131,hcl,inorganic acid
+TT_18b98482,per meter cubed,unit derived by raising to power
+TT_8f99edaa,slightly,trust
+TT_d3b1d8d1,decadal,time frame
+TT_9b96304e,isolated,spatial configuration
+TT_7f70976c,anoxic,chemical state
+TT_ef43035b,carnian,epoch
+TT_401733cf,ccl4,cfc
+TT_b0ca24a8,tac,format
+TT_d4cab41a,fe2.3,element
+TT_dcce5f01,o16,isotope
+TT_1e5b21c4,hydroxyl,ion
+TT_b9a6b98f,orthorhombic,spatial configuration
+TT_a512aeb3,130.0mya,epoch
+TT_8bb56661,dwb,dry winter climate
+TT_4fb0111d,buried,spatial configuration
+TT_4e4eef19,independent,trust
+TT_89378cd3,evacuated,wave state
+TT_efe6f8c6,nh4plus,ion
+TT_401ab4fb,a8 class,a class
+TT_e7695609,jurassic,era
+TT_f18536fc,optimal,trust
+TT_27c8410a,imprecise,trust
+TT_66498bf9,refractive index,electromagnetic quantity
+TT_ae276477,th231,isotope
+TT_dd0074b9,viscous,fluid property
+TT_1004783c,lower cretaceous,era
+TT_0175db7e,specific yield,hydrogeological property
+TT_c36dc3e1,lower devonian,era
+TT_03502850,eoarchean,era
+TT_9a696758,leaf area index,dimensionless ratio
+TT_5d38f17b,no3,ion
+TT_fb12991a,halon1211,halon
+TT_1b3f402d,frequent,time frame
+TT_75bcd3a5,rigid,spatial configuration
+TT_ba270c97,hexachlorobiphenyl,contaminant
+TT_727b2aef,humid,moisture state
+TT_a6279275,nox,contaminant
+TT_55705978,dfc,dry winter climate
+TT_9e99064e,ku band,frequency band mhz
+TT_8e56cd85,lead,post transition metal
+TT_96809d66,x31 class,x class
+TT_9a8b99a3,pb206,isotope
+TT_5e2d045f,tertiary,era
+TT_7e9f2338,hot low latitude desert climate,dry winter climate
+TT_0670c288,199.6mya,epoch
+TT_53a8c1d7,0mya,epoch
+TT_14c9c5fa,big endian,byte order
+TT_d3c6a0f8,dirty,chemical state
+TT_57ed716e,global scale,spatial scale
+TT_7ca28dc2,850mya,epoch
+TT_87ea5142,minute,base unit
+TT_fe68f28c,microwave,spectral band
+TT_b40f6e8c,reagent,chemical role
+TT_0c637e6b,coulomb meter,unit derived by product
+TT_89cc5306,paleoarchean,era
+TT_35930fb1,non stationary,system state
+TT_e0f6581a,antarctic circumpolar current,earth ocean current
+TT_879d6c41,tilted,spatial configuration
+TT_50a38da7,upwind,horizontal direction
+TT_d77621e8,c2h6s,organic compound
+TT_e58fc888,slow,speed state
+TT_6e4530c0,c14,isotope
+TT_41ca3c25,noy,contaminant
+TT_9ef7cab0,kimmeridgian,epoch
+TT_18388d26,kilogram radian per second,unit derived by product
+TT_46a5c696,s36,isotope
+TT_fa75de12,c6h6,hydrocarbon
+TT_478b6356,al26,isotope
+TT_5d844340,sensible,trust
+TT_408846c2,upper pleistocene,epoch
+TT_95b328fb,upslope,vertical direction
+TT_abc41f06,paleozoic,era
+TT_59ddd3ff,netcdf,self describing format
+TT_7f5f4a19,pb202,isotope
+TT_55f474ac,transit,orbital configuration
+TT_211e9755,newtonian,physical state
+TT_7a51dc0e,503mya,epoch
+TT_d90aaa2a,dibromotetrafluoroethane,halon
+TT_290dc01c,1day,duration
+TT_366ae90f,x45 class,x class
+TT_77ee9e2c,terahertz,frequency band mhz
+TT_207122bf,neutralize,chemical state
+TT_feec0db3,v band,frequency band mhz
+TT_081502f5,passive,binary state
+TT_b64a0544,furongian stage9,epoch
+TT_1ee8de3d,undefendable,trust
+TT_cd08f314,265.8mya,epoch
+TT_35a67213,thermodynamic equilibrium,thermodynamic state
+TT_4db26c71,visean,epoch
+TT_6812e41f,day,base unit
+TT_ec452f99,local thermodynamic equilibrium,thermodynamic state
+TT_2d5075a6,seaward,horizontal direction
+TT_cb331185,hcn,inorganic compound
+TT_621d98b1,segment,component
+TT_83d744bc,kungurian,epoch
+TT_6b380c65,he3,isotope
+TT_045d5490,farad,unit
+TT_fb95f603,mesoscale,spatial scale
+TT_226a0085,opposition,orbital configuration
+TT_fda19db9,radioactive decay,radioactive substance
+TT_633af82a,surplus,chemical state
+TT_e457ad55,irrigated,land use
+TT_599f422e,methane,hydrocarbon
+TT_c31e8a87,635mya,epoch
+TT_bfd638aa,co3minusminus,ion
+TT_772516cd,sinemurian,epoch
+TT_2a962967,winter solstice,solstice
+TT_1e29ff2b,gzhelian,epoch
+TT_de983990,federal aviation administration,federal governing body
+TT_a28f8d1b,tropical savanna climate,dry winter climate
+TT_ec20605d,ageostrophic,system state
+TT_de3b52c2,subsonic,speed state
+TT_132cec32,sakmarian,epoch
+TT_354827c9,berriasian,epoch
+TT_d9f667fc,sulfur oxide,inorganic compound
+TT_d1522284,low,binary state
+TT_7e817a15,migrating,spatial configuration
+TT_3eb51fd2,nad2,ion
+TT_53fa014e,violent,impact
+TT_353baff5,150.8mya,epoch
+TT_e492e0a2,per second squared,unit derived by raising to power
+TT_79e6e8f3,carbonyl sulfide,inorganic compound
+TT_0bf392df,pollinated,biological state
+TT_37299a2d,south pole,magnetic pole
+TT_a2d62c2b,earth atmosphere mesoscale,spatial scale
+TT_3d62f841,month,base unit
+TT_d62f61ff,propellant,chemical role
+TT_ef6b368f,hclo4,inorganic acid
+TT_78dca7c3,x49 class,x class
+TT_0a6e5fcc,positive,binary state
+TT_f809eb1b,th234,isotope
+TT_e6f7c502,n14,isotope
+TT_e51f0b7f,5day,duration
+TT_8555a64f,bromine,halogen
+TT_0ccea7c2,artinskian,epoch
+TT_8d61a931,10year,duration
+TT_812f901a,igrf,geomagnetic field
+TT_ed9c0294,ka band,frequency band mhz
+TT_d2e459a3,solute,substance form
+TT_9ef9897d,hclo4,inorganic acid
+TT_386ec02d,acenaphthene,hydrocarbon
+TT_93b9b2bb,dms,organic compound
+TT_884318b1,tepid,temperature range
+TT_b799d051,tropical rain forest climate,wet summer dry winter climate
+TT_97b30e0d,steric,thermodynamic state
+TT_38156029,robust,trust
+TT_4f9963fb,incomplete,trust
+TT_8c4570cc,nano,prefix
+TT_518ce6c4,methanoic acid,inorganic acid
+TT_830d57b3,semi diurnal,time frame
+TT_18353a89,stenian,era
+TT_e8bdbb83,retardation factor,hydrogeological property
+TT_d336960f,composite,substance form
+TT_1ab8036c,sinusoidal,spatial configuration
+TT_dffacd35,u238,isotope
+TT_be543083,secular,time frame
+TT_e815787c,uncertainty,trust
+TT_b7d86443,fnu,unit
+TT_c04f30ec,electronic,electromagnetic quantity
+TT_23e91c8f,ludlow,epoch
+TT_f6dc9c6e,zenith,angular coordinate
+TT_dd1b75bf,geological,geosphere
+TT_f925045b,representative,representative role
+TT_293f559e,k41,format
+TT_8f582671,near,spatial configuration
+TT_f34384ab,joule per meter squared,unit derived by product
+TT_fd2cb425,meter per second,unit
+TT_7cec8bfd,lower imbrian,era
+TT_ad17cba3,marine life management act,environmental law
+TT_0ed0295a,dead,biological state
+TT_34b2d975,brittle,physical state
+TT_4bef7005,pascal,unit
+TT_0f9b8039,374.5mya,epoch
+TT_1bc143e7,x47 class,x class
+TT_9627d0c1,arched,spatial configuration
+TT_f75b0090,robinson,spatial reference system
+TT_f5d80214,middle ordovician,epoch
+TT_0c882d10,north pole,magnetic pole
+TT_d807c3f9,x30 class,x class
+TT_8079a887,metallic,substance form
+TT_ebdf34c3,level,system state
+TT_35848db2,nectarian,era
+TT_777105aa,c3h8,hydrocarbon
+TT_f70ab457,chromium,transition metal
+TT_0532c3cf,conduit,component
+TT_06e0a9c2,joule per kelvin,unit derived by product
+TT_f04682e8,elastic,physical state
+TT_0c440bac,saturated,chemical state
+TT_a109007e,carbohydrate,organic compound
+TT_95cdaebc,gentle,spatial configuration
+TT_50c80693,uninterrupted,wave state
+TT_8d61c5c2,stressor,impact
+TT_73209875,crystal structure,spatial configuration
+TT_cdf9829d,sharp,wave state
+TT_d9978a79,anoxia,chemical state
+TT_7ba31ed5,calm,wave state
+TT_abb2e0e5,445.6mya,epoch
+TT_3b24b0ec,cenozoic,era
+TT_e1af4347,s34,isotope
+TT_4da461b5,siemens per kilogram,unit
+TT_d425750d,old growth,land use
+TT_fa785f5b,balanced,system state
+TT_125ec8a6,central dense overcast,impact
+TT_b2668e3d,ypresian,epoch
+TT_42fb6810,x42 class,x class
+TT_83040b6e,hclfc,hcfc
+TT_183271fa,elevated,spatial configuration
+TT_062e9b61,m2 class,m class
+TT_088755b7,lambert conformal conic,spatial reference system
+TT_94b2fbcc,vague,trust
+TT_e9354ba4,cos,dimensionless ratio
+TT_79f3f382,north,horizontal direction
+TT_951722ac,geostationary,orbital configuration
+TT_40ebd1cb,dissolved,chemical state
+TT_3a1937c1,rouse number,dimensionless ratio
+TT_9ab9afbc,trace,chemical state
+TT_9782704d,3.600mya,epoch
+TT_ec2a8602,nitrogen monoxide,inorganic compound
+TT_68a600c3,bubble,wave state
+TT_099918b5,beaufort5,beaufort scale
+TT_283e33c2,uvb,spectral band
+TT_e443a420,sun,radiation medium interaction quantity
+TT_6b101b0a,submarginal,biological state
+TT_3747460e,pb204,isotope
+TT_158a5f30,horizontal,horizontal direction
+TT_73163901,dormant,biological state
+TT_40496536,crystal,substance form
+TT_154d3230,theta,angular coordinate
+TT_05bf2ab1,c7 class,c class
+TT_d8989b95,peroxy radical,peroxide
+TT_53426ba9,orange,spectral band
+TT_56ae0af3,hydrophobic,chemical state
+TT_1b4c6276,silicon dioxide,inorganic compound

@@ -1,0 +1,3 @@
+{
+    "prompt": "I want you to judge predictions from 3 other LLMs from terms based on SWEET Ontology, focusing on earth and environmental science concepts. First, I want to give you all [NUM_LABELS] possible answers for this dataset.\nNow I want to give you all [NUM_LABELS] possibles answers:\n[LABELS]\nNow I will give you the predictions from 3 other LLMs and you will choose one best answer from 3 predictions with no explanation and in one line for example 'types': ['ANSWER'] Additionally, provide a brief reason (up to 100 words) in the format: 'reason': '...'"
+}

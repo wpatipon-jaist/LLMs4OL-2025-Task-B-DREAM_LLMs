@@ -1,0 +1,627 @@
+id,term,types
+TT_465e8904,electronegativity,physical constant
+TT_01c7707e,sigma,classifier
+TT_b20cb478,b8 class,b class
+TT_136ee6bc,ferroelectric,physical state
+TT_e2be01a5,category2,saffir simpson scale
+TT_d67b8385,watt per meter squared per steradian,unit
+TT_3a87c4f0,inhibitor,chemical role
+TT_23f84dcf,eutrophic,biological state
+TT_db0ed17b,micronutrient,chemical role
+TT_343e2868,signer,role
+TT_8b290782,311.7mya,age
+TT_17b968f2,conductor,chemical role
+TT_044d65d3,non newtonian,fluid state
+TT_f367c52e,tonian,period
+TT_e61af733,enzyme,organic compound
+TT_fca5f9f9,acidify,chemical role
+TT_3390cdcb,paleogene,period
+TT_ffe53db9,x2 class,x class
+TT_152f3a8d,beryllium,alkaline earth metal
+TT_03db7b11,oxidizer,chemical role
+TT_ecb9fcc7,landward,horizontal direction
+TT_93eb6d00,cfc,cfc
+TT_13327caf,serializes,role
+TT_3edea2ca,93.6mya,age
+TT_0ccb2235,suspended,physical state
+TT_7a45e8bb,silicate,inorganic compound
+TT_432d65d3,contributor,role
+TT_a0dc5361,binder,chemical role
+TT_bee9eb1d,0.126mya,age
+TT_e8d6b32f,uva,spectral band
+TT_b5b09234,dendritic,shape
+TT_0d8981ec,23.03mya,age
+TT_7ce655e9,dim,qualifier
+TT_c926cc33,polycrystalline,physical state
+TT_ede7b3f1,fcaa,organic compound
+TT_7ff90784,acceptable,trust
+TT_8b5c0524,flake,shape
+TT_53c5bd17,unconfident,trust
+TT_d0d2658e,triassic,period
+TT_30dfa770,x13 class,x class
+TT_3a11961a,netcdf3,format
+TT_6135b3e1,pitch,angular direction
+TT_c266fa07,extraordinary,qualifier
+TT_9de88d2d,ascii,format
+TT_ea721ede,x37 class,x class
+TT_f7bb9b77,biomarker,organic compound
+TT_03ced6f3,uphill,vertical direction
+TT_76cbacc3,underwater,qualifier
+TT_ad1bbe57,c10h16,hydrocarbon
+TT_5c033064,hdfeos2,format
+TT_1091e607,he1083,spectral line
+TT_bcb95918,rough,consistence property
+TT_babaeba5,x8 class,x class
+TT_d1fb6213,hco3minus,ion
+TT_9c8ac160,negative,qualifier
+TT_0c6f7ee7,potable,qualifier
+TT_22e1ddd0,remote,spatial configuration
+TT_7e6b4b4a,thanetian,age
+TT_8c4a8268,hauterivian,age
+TT_4722ce3e,earth ionosphere,atmosphere
+TT_d5e03d4a,x25 class,x class
+TT_9e372b05,rust,inorganic compound
+TT_e179b811,even,qualifier
+TT_5b035ac1,solar constant,physical constant
+TT_8b4cdf58,west,horizontal direction
+TT_99e68702,ordovician,period
+TT_ab07d5e8,hour,unit
+TT_f21c7a7b,geologic,qualifier
+TT_583c6331,he4,isotope
+TT_b5a3b61a,meter cubed per kilogram,unit
+TT_7f00cf84,von karman constant,physical constant
+TT_2c72a2bd,precise,trust
+TT_551094cc,cfc114,cfc
+TT_b8e624c9,semi precious,qualifier
+TT_ec64041e,light,qualifier
+TT_a2c7b4bc,ediacaran,period
+TT_391a36c6,lagrangian,reference frame
+TT_49de527d,pan,qualifier
+TT_b4ab2f6c,lutetian,age
+TT_f255806a,moscovian,age
+TT_947c1323,gulf stream,earth ocean current
+TT_4b97f1ec,clockwise,angular direction
+TT_228c9a24,autumn,season
+TT_a4d6b9e2,ef0,enhanced fujita scale
+TT_eda17fd6,priabonian,age
+TT_2cc3ee4e,hydroperoxyl,ion
+TT_759d97c4,stratified,physical state
+TT_8f2fc778,aphelion,orbital configuration
+TT_d1e324ef,ch4,hydrocarbon
+TT_8eba593b,cl2o2,inorganic compound
+TT_49557da8,millimeter,unit
+TT_66903bd5,indurated,consistence property
+TT_b003bc45,per pascal,unit
+TT_0bfde7be,unpredictable,trust
+TT_81173ce7,cambrian stage3,age
+TT_fac9ffac,unscheduled,qualifier
+TT_1c3cb20d,disturbed,qualifier
+TT_a2f64713,netcdf4,format
+TT_84664adb,amorphous,physical state
+TT_bda5805a,dominant,qualifier
+TT_9a890078,neogene,period
+TT_a4fc1bf8,anthropogenic,qualifier
+TT_e03d6775,suboptimal,qualifier
+TT_238f77a8,tiny,size
+TT_6de53a88,cadmium,post transition metal
+TT_3e9eaf0e,category4,saffir simpson scale
+TT_c99b05db,benguela current,earth ocean current
+TT_6924dd35,spectral,qualifier
+TT_b463247f,permian,period
+TT_11ac2bd4,acenaphthylene,hydrocarbon
+TT_26b1777c,dwb,dry winter climate
+TT_c7f6cba8,443.7mya,age
+TT_13acc069,c band,frequency band mhz
+TT_71b92c17,2300mya,age
+TT_498b53c9,thermal plasma,physical state
+TT_efe70492,basin groups,spatial configuration
+TT_485cb62f,ppm,unit
+TT_0bf5fc0b,x28 class,x class
+TT_1c3ef1e4,submitter,role
+TT_a7863b9a,regular,qualifier
+TT_7ea00ec3,bzip2,compression method
+TT_30fdd67b,clono2,inorganic compound
+TT_b7fbffd3,earth mesopelagic zone,ocean volume
+TT_c03ee39c,1.806mya,age
+TT_e147d398,bwk,dry winter climate
+TT_4e3c03ca,dynamic,qualifier
+TT_cfa5f1e6,azimuthal equidistant,spatial reference system
+TT_93b3fbeb,spawning ground,habitat
+TT_48d53d50,halon1301,halon
+TT_6e26f239,tenuous,qualifier
+TT_ac3340ac,reynolds number,dimensionless ratio
+TT_c0b1f0dc,upflow,vertical direction
+TT_876e178a,joule,unit
+TT_29a10f10,analyzed,qualifier
+TT_a7579eb1,unacceptable,trust
+TT_5216aacc,diluted,qualifier
+TT_7092fa8b,dry ice,substance form
+TT_fd1d6b94,inert,chemical role
+TT_13835c44,hazard,impact
+TT_82c035d5,x16 class,x class
+TT_99aa35a9,instance,Instant
+TT_cc8239f8,kelvin,unit
+TT_c3122e54,hbeta,spectral line
+TT_2d6bbd7d,ef5,enhanced fujita scale
+TT_81671ca6,sidereal,qualifier
+TT_8ca71121,hydraulic gradient,hydrogeological property
+TT_449c56bb,connected,connectivity
+TT_e57fb4fb,non thermal plasma,physical state
+TT_689a2c23,montreal protocol,environmental law
+TT_590b4d40,plastic,physical state
+TT_2bbcc3cb,cak,spectral line
+TT_42af1091,contaminant,chemical role
+TT_6b955ce9,trapped,qualifier
+TT_a59ba01f,pliensbachian,age
+TT_9af56f67,253.8mya,age
+TT_c2252590,ch3cooh,organic compound
+TT_0a916ef2,hydrobromous acid,inorganic acid
+TT_14debe7d,millenium,duration
+TT_1a5d1ce3,vertical,vertical direction
+TT_9a8c04ca,c2h6o,organic compound
+TT_54c60e59,nearby,qualifier
+TT_f4a40e4d,indicator,role
+TT_ea105023,maximum entropy,interpolation method
+TT_7e60eaf9,4600mya,age
+TT_65d03cef,explicit,qualifier
+TT_a6f221ec,rhaetian,age
+TT_1dbfa101,selandian,age
+TT_2a177d49,subaqueous,qualifier
+TT_1d20f8f3,299.0mya,age
+TT_0b973939,251.0mya,age
+TT_93235603,hydrogen cyanide,inorganic compound
+TT_0ea60382,enrich,chemical role
+TT_80eb0b14,imbricated,qualifier
+TT_8a35dea3,bartonian,age
+TT_ba921809,environmental protection agency,environmental standards body
+TT_ab4a1d2a,xls,format
+TT_28165e62,halosteric,qualifier
+TT_d427d188,forage,biological role
+TT_61e6d5a1,bashkirian,age
+TT_90a49eb6,disaster,impact
+TT_2e260457,th230,isotope
+TT_f3ca47f9,iron oxide,inorganic compound
+TT_5c920fb8,pentad,duration
+TT_422ba0cb,dichlorodifluoromethane,cfc
+TT_444cb580,acute,qualifier
+TT_386ec924,rhuddanian,age
+TT_2282ee39,peer reviewed,trust
+TT_4f1c6fe7,drumian,age
+TT_a04cec09,meter cubed,unit
+TT_b8e6880d,terreneuvian,period
+TT_650c1dd0,precambrian,eon
+TT_1d45bcb9,freon12,cfc
+TT_83ca6886,no3minus,ion
+TT_26692b9f,lower jurassic,period
+TT_38b88834,b7 class,b class
+TT_e432bce3,piacenzian,age
+TT_6fdd769f,infrared,spectral band
+TT_e31c1951,untrusted,trust
+TT_3ad9cee4,earth troposphere,atmosphere
+TT_6704bb92,beaufort10,beaufort scale
+TT_0e80f3c9,albers conical equal area,spatial reference system
+TT_63262db4,copper,transition metal
+TT_839d6369,per tesla,unit
+TT_0f09cf8c,pcb,organic compound
+TT_d9536b24,brno3,inorganic compound
+TT_419a37a9,prior,qualifier
+TT_879093fb,b3 class,b class
+TT_c6262816,equator,great circle
+TT_38841047,unpressurized,qualifier
+TT_4a2916b8,hybrid sigma,vertical coordinate
+TT_32986cf2,tropical,qualifier
+TT_094dc640,nfma,organic compound
+TT_35d587e7,lower,qualifier
+TT_0de64f49,radioactivity,physical constant
+TT_a06614de,cryptic,qualifier
+TT_536e1c01,flat,shape
+TT_ae9a7394,winter,season
+TT_db9a42b9,lux,unit
+TT_b42a538a,short,qualifier
+TT_8a7f0d7c,radian per second,unit
+TT_e9bfa8d0,metre,unit
+TT_caf65747,semi,qualifier
+TT_35ba8e5b,2800mya,age
+TT_4b6372a6,245.9mya,age
+TT_551a76a9,minor,role
+TT_433a6162,x4 class,x class
+TT_a57744b1,hno3,inorganic acid
+TT_51efe021,x21 class,x class
+TT_a5a76e1f,total,qualifier
+TT_2ad655c1,equatorial,latitude line
+TT_f9b19c79,darriwilian,age
+TT_b4309245,422.9mya,age
+TT_7b667ecd,endogenous,qualifier
+TT_796a74a4,sun synchronous,orbital configuration
+TT_68e541dd,pt3million_km2,unit
+TT_668c3d0d,saturate,chemical role
+TT_5b582857,very,qualifier
+TT_1c18e3bb,he304,spectral line
+TT_ae66becd,468.1mya,age
+TT_0a62e7d6,deciduous,biological state
+TT_ce08b1d0,shattered,physical state
+TT_e2869a95,broad,qualifier
+TT_8ecaee8d,oceanic,qualifier
+TT_c6e62afd,ethene,alkene
+TT_dccbed46,nitric oxide,inorganic compound
+TT_752b69f1,zone code,spatial reference system
+TT_37268046,magnesium,alkaline earth metal
+TT_04e0b6a3,earth thermosphere,atmosphere
+TT_ad7dee2c,fram strait,earth ocean
+TT_cc9fca33,synoptic,temporal scale
+TT_44e8bc52,plasma,physical state
+TT_b36eda6e,proterozoic,eon
+TT_3b6eae65,nearest neighbor,interpolation method
+TT_ef6bdb73,sulfate,ion
+TT_c4f21e14,triaxial,shape
+TT_616a783b,dapingian,age
+TT_44674a24,gzip,compression method
+TT_594e4c76,bsh,dry winter climate
+TT_cac64dd4,arcminute,unit
+TT_64729573,2week,duration
+TT_9acb6bb0,prevention of significant deteriorization,environmental standard
+TT_10ffc87b,longitude,horizontal coordinate
+TT_17afa117,psd,environmental standard
+TT_46502cd6,arff,format
+TT_6c5c04e8,baroclinic,qualifier
+TT_ff499be0,hysteresis,physical state
+TT_00532fc2,farad per meter,unit
+TT_3c00485a,recent,qualifier
+TT_f097302a,subordinate,role
+TT_e19227e5,million km2,unit
+TT_e0cf60cf,anisotropic,qualifier
+TT_ba8eaef6,archean,eon
+TT_6ffae85d,concentric,shape
+TT_ac0ff00a,biaxial,shape
+TT_f47a659c,flattend,shape
+TT_9d4b19e1,quasi neutral,qualifier
+TT_b9cf4a5b,c12,isotope
+TT_0d16d6ef,emerging,qualifier
+TT_a9eb0505,past,qualifier
+TT_43cd8189,upper triassic,period
+TT_a31e7083,nfs,interface protocol
+TT_cdf20def,proven,trust
+TT_b7153dff,watt per meter squared per kelvin,unit
+TT_9cdcaa9d,cisuralian,period
+TT_13fc695d,visible,spectral band
+TT_ea11cc8f,meter squared per kilogram,unit
+TT_6c7c19aa,violet,spectral band
+TT_ae016874,510mya,age
+TT_0d0e9987,indirect,qualifier
+TT_7404313a,disasterous,impact
+TT_2ead1d3f,deep,qualifier
+TT_bbd3cfac,stationary,qualifier
+TT_6e8c3afe,upper jurassic,period
+TT_564cdfe4,clox,inorganic compound
+TT_e984cede,trigonal,shape
+TT_824659f4,free oscillation,wave state
+TT_6cb0388a,void,qualifier
+TT_18b12175,upper ordovician,period
+TT_21576447,237.0mya,age
+TT_87174f1a,gelasian,age
+TT_7a75248d,arctic ocean,earth ocean
+TT_a2e8c926,pollutant standards index,environmental standard
+TT_b6835c45,continental,qualifier
+TT_2091a92f,268.0mya,age
+TT_66f8101d,lte,qualifier
+TT_0132cc6e,wuchiapingian,age
+TT_eddfe9d3,x24 class,x class
+TT_613ffa4a,upper cretaceous,period
+TT_fdf6296a,desalinize,chemical role
+TT_d937cdce,chattian,age
+TT_997f0b42,stereographic,spatial reference system
+TT_258b7310,u238,isotope
+TT_195151ca,century,duration
+TT_e634b4e0,random,qualifier
+TT_c35addc3,anadromous,biological role
+TT_c45088ab,contained,qualifier
+TT_4ea59887,severe,qualifier
+TT_d5cdb49f,serravallian,age
+TT_664dd05f,hybrid height,vertical coordinate
+TT_9dd26ab9,aquitanian,age
+TT_4eda8ff9,neon,noble gas
+TT_c3a6dee5,a7 class,a class
+TT_9fcdfe3e,sonic mach number,dimensionless ratio
+TT_1838b11c,deca,prefix
+TT_a167723a,o18,isotope
+TT_1e9ed9ae,far field,spatial configuration
+TT_366ad7df,rossby number,dimensionless ratio
+TT_d03eec09,photodissociate,chemical role
+TT_e090a1fc,ultraviolet,spectral band
+TT_703bd7c8,down,vertical direction
+TT_5782aa24,trusted,trust
+TT_8e352005,spherical,shape
+TT_2496d964,ice cap climate,wet summer dry winter climate
+TT_e3c314db,eastward,horizontal direction
+TT_67841b01,vulnerable,qualifier
+TT_9acace53,per kilogram meter squared per second kelvin,unit
+TT_4ff65db6,translucent,qualifier
+TT_52f53eb6,acrylonitrile,organic compound
+TT_597ec3d6,joule per mole per kelvin,unit
+TT_057105f0,california current,earth ocean current
+TT_02158935,acrolein,organic compound
+TT_a8e341cb,halon2402,halon
+TT_eaf26b59,deuterium,isotope
+TT_2eae24b7,133.9mya,age
+TT_4363869f,compact,qualifier
+TT_639a7302,poision,chemical role
+TT_f7fad713,nmhc,organic compound
+TT_04bcd131,specific retention,hydrogeological property
+TT_d5288fcb,latitude,horizontal coordinate
+TT_f16225dc,h10,isotope
+TT_c6825c5c,brackish,qualifier
+TT_2ebbbf3e,2.588mya,age
+TT_54e29617,published,qualifier
+TT_4610dbef,c2h6,alkane
+TT_693428c6,ethanol,organic compound
+TT_175c85af,tropics,latitude band
+TT_9b23cc92,cold midlatitude desert climate,dry winter climate
+TT_f7557642,micron,unit
+TT_c28bffeb,ethane,alkane
+TT_389427ae,cold,temperature range
+TT_03554dcb,primary consumer,consumer
+TT_ba644037,391.8mya,age
+TT_db03f52d,dwd,dry winter climate
+TT_564eacdc,curator,role
+TT_186b1f24,superadiabatic,thermodynamic state
+TT_7f34b856,siderian,period
+TT_a091b375,ohm,unit
+TT_78770291,burn,chemical role
+TT_d04ed815,clear,visibility
+TT_d3f17702,weekly,duration
+TT_85709309,sverdrup balance,equilibrium state
+TT_206baa40,h2o2,peroxide
+TT_84fd3b77,neritic,ocean volume
+TT_bb3cad11,sheinwoodian,age
+TT_77a1a730,aluminum,post transition metal
+TT_269be637,accurate,trust
+TT_5c769f64,national forest service,federal governing body
+TT_f2483127,ozone,inorganic compound
+TT_eade4643,archivist,role
+TT_96912c6c,s32,isotope
+TT_1e14da83,inhomogeneous,qualifier
+TT_e0ae6e29,x39 class,x class
+TT_588f1443,275.6mya,age
+TT_aaf3d02b,miscible,fluid property
+TT_11eb3e2c,recoverable,qualifier
+TT_724318a8,network endian,byte order
+TT_8a8d0873,non methane hydrocarbon,hydrocarbon
+TT_22a414e2,decomposed,chemical state
+TT_e6a5222b,host,role
+TT_e4c33673,north pacific gyre,ocean gyre
+TT_5c289d05,normal,qualifier
+TT_9d88fc3c,safe,qualifier
+TT_c2e60131,hcl,inorganic acid
+TT_18b98482,per meter cubed,unit
+TT_8f99edaa,slightly,qualifier
+TT_d3b1d8d1,decadal,duration
+TT_9b96304e,isolated,connectivity
+TT_7f70976c,anoxic,chemical state
+TT_ef43035b,carnian,age
+TT_401733cf,ccl4,organic compound
+TT_b0ca24a8,tac,organic compound
+TT_d4cab41a,fe2.3,element
+TT_dcce5f01,o16,isotope
+TT_1e5b21c4,hydroxyl,ion
+TT_b9a6b98f,orthorhombic,shape
+TT_a512aeb3,130.0mya,age
+TT_8bb56661,dwb,dry winter climate
+TT_4fb0111d,buried,qualifier
+TT_4e4eef19,independent,qualifier
+TT_89378cd3,evacuated,qualifier
+TT_efe6f8c6,nh4plus,ion
+TT_401ab4fb,a8 class,a class
+TT_e7695609,jurassic,period
+TT_f18536fc,optimal,qualifier
+TT_27c8410a,imprecise,trust
+TT_66498bf9,refractive index,electromagnetic quantity
+TT_ae276477,th231,isotope
+TT_dd0074b9,viscous,fluid property
+TT_1004783c,lower cretaceous,period
+TT_0175db7e,specific yield,hydrogeological property
+TT_c36dc3e1,lower devonian,period
+TT_03502850,eoarchean,eon
+TT_9a696758,leaf area index,dimensionless ratio
+TT_5d38f17b,no3,ion
+TT_fb12991a,halon1211,halon
+TT_1b3f402d,frequent,qualifier
+TT_75bcd3a5,rigid,physical state
+TT_ba270c97,hexachlorobiphenyl,organic compound
+TT_727b2aef,humid,moisture state
+TT_a6279275,nox,inorganic compound
+TT_55705978,dfc,wet summer dry winter climate
+TT_9e99064e,ku band,frequency band mhz
+TT_8e56cd85,lead,element
+TT_96809d66,x31 class,x class
+TT_9a8b99a3,pb206,isotope
+TT_5e2d045f,tertiary,era
+TT_7e9f2338,hot low latitude desert climate,dry winter climate
+TT_0670c288,199.6mya,age
+TT_53a8c1d7,0mya,age
+TT_14c9c5fa,big endian,byte order
+TT_d3c6a0f8,dirty,qualifier
+TT_57ed716e,global scale,spatial scale
+TT_7ca28dc2,850mya,age
+TT_87ea5142,minute,duration
+TT_fe68f28c,microwave,spectral band
+TT_b40f6e8c,reagent,chemical role
+TT_0c637e6b,coulomb meter,unit
+TT_89cc5306,paleoarchean,eon
+TT_35930fb1,non stationary,system state
+TT_e0f6581a,antarctic circumpolar current,earth ocean current
+TT_879d6c41,tilted,physical state
+TT_50a38da7,upwind,horizontal direction
+TT_d77621e8,c2h6s,organic compound
+TT_e58fc888,slow,speed state
+TT_6e4530c0,c14,isotope
+TT_41ca3c25,noy,inorganic compound
+TT_9ef7cab0,kimmeridgian,period
+TT_18388d26,kilogram radian per second,unit
+TT_46a5c696,s36,isotope
+TT_fa75de12,c6h6,hydrocarbon
+TT_478b6356,al26,isotope
+TT_5d844340,sensible,qualifier
+TT_408846c2,upper pleistocene,epoch
+TT_95b328fb,upslope,vertical direction
+TT_abc41f06,paleozoic,era
+TT_59ddd3ff,netcdf,self describing format
+TT_7f5f4a19,pb202,isotope
+TT_55f474ac,transit,orbital configuration
+TT_211e9755,newtonian,fluid property
+TT_7a51dc0e,503mya,age
+TT_d90aaa2a,dibromotetrafluoroethane,halon
+TT_290dc01c,1day,duration
+TT_366ae90f,x45 class,x class
+TT_77ee9e2c,terahertz,frequency
+TT_207122bf,neutralize,chemical role
+TT_feec0db3,v band,frequency band mhz
+TT_081502f5,passive,system state
+TT_b64a0544,furongian stage9,period
+TT_1ee8de3d,undefendable,trust
+TT_cd08f314,265.8mya,age
+TT_35a67213,thermodynamic equilibrium,thermodynamic state
+TT_4db26c71,visean,period
+TT_6812e41f,day,duration
+TT_ec452f99,local thermodynamic equilibrium,thermodynamic state
+TT_2d5075a6,seaward,horizontal direction
+TT_cb331185,hcn,inorganic compound
+TT_621d98b1,segment,component
+TT_83d744bc,kungurian,period
+TT_6b380c65,he3,isotope
+TT_045d5490,farad,unit
+TT_fb95f603,mesoscale,spatial scale
+TT_226a0085,opposition,orbital configuration
+TT_fda19db9,radioactive decay,impact
+TT_633af82a,surplus,difference
+TT_e457ad55,irrigated,land use
+TT_599f422e,methane,hydrocarbon
+TT_c31e8a87,635mya,age
+TT_bfd638aa,co3minusminus,ion
+TT_772516cd,sinemurian,period
+TT_2a962967,winter solstice,solstice
+TT_1e29ff2b,gzhelian,period
+TT_de983990,federal aviation administration,federal governing body
+TT_a28f8d1b,tropical savanna climate,dry winter climate
+TT_ec20605d,ageostrophic,physical state
+TT_de3b52c2,subsonic,speed state
+TT_132cec32,sakmarian,period
+TT_354827c9,berriasian,period
+TT_d9f667fc,sulfur oxide,inorganic compound
+TT_d1522284,low,qualifier
+TT_7e817a15,migrating,physical state
+TT_3eb51fd2,nad2,organic compound
+TT_53fa014e,violent,qualifier
+TT_353baff5,150.8mya,age
+TT_e492e0a2,per second squared,unit
+TT_79e6e8f3,carbonyl sulfide,inorganic compound
+TT_0bf392df,pollinated,biological state
+TT_37299a2d,south pole,magnetic pole
+TT_a2d62c2b,earth atmosphere mesoscale,spatial scale
+TT_3d62f841,month,duration
+TT_d62f61ff,propellant,chemical role
+TT_ef6b368f,hclo4,inorganic acid
+TT_78dca7c3,x49 class,x class
+TT_0a6e5fcc,positive,qualifier
+TT_f809eb1b,th234,isotope
+TT_e6f7c502,n14,isotope
+TT_e51f0b7f,5day,duration
+TT_8555a64f,bromine,halogen
+TT_0ccea7c2,artinskian,period
+TT_8d61a931,10year,duration
+TT_812f901a,igrf,geomagnetic field
+TT_ed9c0294,ka band,frequency band mhz
+TT_d2e459a3,solute,chemical role
+TT_9ef9897d,hclo4,inorganic acid
+TT_386ec02d,acenaphthene,organic compound
+TT_93b9b2bb,dms,organic compound
+TT_884318b1,tepid,qualifier
+TT_b799d051,tropical rain forest climate,wet summer dry winter climate
+TT_97b30e0d,steric,physical state
+TT_38156029,robust,qualifier
+TT_4f9963fb,incomplete,qualifier
+TT_8c4570cc,nano,prefix
+TT_518ce6c4,methanoic acid,inorganic acid
+TT_830d57b3,semi diurnal,frequency
+TT_18353a89,stenian,period
+TT_e8bdbb83,retardation factor,dimensionless ratio
+TT_d336960f,composite,substance form
+TT_1ab8036c,sinusoidal,shape
+TT_dffacd35,u238,isotope
+TT_be543083,secular,time frame
+TT_e815787c,uncertainty,trust
+TT_b7d86443,fnu,unit
+TT_c04f30ec,electronic,system state
+TT_23e91c8f,ludlow,period
+TT_f6dc9c6e,zenith,angular direction
+TT_dd1b75bf,geological,qualifier
+TT_f925045b,representative,representative role
+TT_293f559e,k41,isotope
+TT_8f582671,near,distance
+TT_f34384ab,joule per meter squared,unit
+TT_fd2cb425,meter per second,unit
+TT_7cec8bfd,lower imbrian,period
+TT_ad17cba3,marine life management act,environmental law
+TT_0ed0295a,dead,biological state
+TT_34b2d975,brittle,physical state
+TT_4bef7005,pascal,unit
+TT_0f9b8039,374.5mya,age
+TT_1bc143e7,x47 class,x class
+TT_9627d0c1,arched,shape
+TT_f75b0090,robinson,spatial reference system
+TT_f5d80214,middle ordovician,period
+TT_0c882d10,north pole,magnetic pole
+TT_d807c3f9,x30 class,x class
+TT_8079a887,metallic,physical state
+TT_ebdf34c3,level,qualifier
+TT_35848db2,nectarian,period
+TT_777105aa,c3h8,hydrocarbon
+TT_f70ab457,chromium,element
+TT_0532c3cf,conduit,component
+TT_06e0a9c2,joule per kelvin,unit
+TT_f04682e8,elastic,physical state
+TT_0c440bac,saturated,chemical state
+TT_a109007e,carbohydrate,organic compound
+TT_95cdaebc,gentle,qualifier
+TT_50c80693,uninterrupted,qualifier
+TT_8d61c5c2,stressor,impact
+TT_73209875,crystal structure,shape
+TT_cdf9829d,sharp,qualifier
+TT_d9978a79,anoxia,chemical state
+TT_7ba31ed5,calm,qualifier
+TT_abb2e0e5,445.6mya,age
+TT_3b24b0ec,cenozoic,era
+TT_e1af4347,s34,isotope
+TT_4da461b5,siemens per kilogram,unit
+TT_d425750d,old growth,biological state
+TT_fa785f5b,balanced,equilibrium state
+TT_125ec8a6,central dense overcast,shape
+TT_b2668e3d,ypresian,period
+TT_42fb6810,x42 class,x class
+TT_83040b6e,hclfc,hcfc
+TT_183271fa,elevated,qualifier
+TT_062e9b61,m2 class,m class
+TT_088755b7,lambert conformal conic,spatial reference system
+TT_94b2fbcc,vague,trust
+TT_e9354ba4,cos,inorganic compound
+TT_79f3f382,north,horizontal direction
+TT_951722ac,geostationary,orbital configuration
+TT_40ebd1cb,dissolved,chemical state
+TT_3a1937c1,rouse number,dimensionless ratio
+TT_9ab9afbc,trace,qualifier
+TT_9782704d,3.600mya,age
+TT_ec2a8602,nitrogen monoxide,inorganic compound
+TT_68a600c3,bubble,substance form
+TT_099918b5,beaufort5,beaufort scale
+TT_283e33c2,uvb,spectral band
+TT_e443a420,sun,planet
+TT_6b101b0a,submarginal,qualifier
+TT_3747460e,pb204,isotope
+TT_158a5f30,horizontal,horizontal direction
+TT_73163901,dormant,biological state
+TT_40496536,crystal,substance form
+TT_154d3230,theta,angular coordinate
+TT_05bf2ab1,c7 class,c class
+TT_d8989b95,peroxy radical,ion
+TT_53426ba9,orange,qualifier
+TT_56ae0af3,hydrophobic,chemical state
+TT_1b4c6276,silicon dioxide,inorganic compound
