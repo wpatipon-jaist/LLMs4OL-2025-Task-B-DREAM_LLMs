@@ -1,6 +1,6 @@
 # 🧠 LLMs4OL‑2025 Task B: DREAM_LLMs
 
-This repository contains my implementation and experiments for **Task B: Taxonomy Discovery** from the [LLMs4OL ’25 Challenge at ISWC 2025](https://github.com/themes12/LLMs4OL2025.git). The goal is to identify “is‑a” hierarchy relations between given term types using large language models (LLMs).
+This repository contains my implementation and experiments for **Task B: Taxonomy Discovery** from the [LLMs4OL ’25 Challenge at ISWC 2025](https://sites.google.com/view/llms4ol2025/home?authuser=0). The goal is to identify “is‑a” hierarchy relations between given term types using large language models (LLMs).
 
 ---
 
