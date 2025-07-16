@@ -144,7 +144,3 @@ Affiliation: Japan Advanced Institute of Science and Technology (JAIST)
 ## 📄 License
 
 This project is released under the [MIT License](./LICENSE).
-
----
-
-**Made with ❤️ for scientific AI and ontology learning.**
