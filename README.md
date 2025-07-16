@@ -47,10 +47,6 @@ LLMs4OL-2025-Task-B-DREAM_LLMs/
    pip install -r requirements.txt
    ```
 
-3. **Configure API keys**:
-   - Copy `.env.example` to `.env` and set your OpenAI or other model API keys.
-   - You can also set endpoints and configurations for locally hosted models if applicable.
-
 ---
 
 ## 🧩 Usage
