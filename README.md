@@ -90,12 +90,6 @@ This repo uses a **deliberation-based ensemble** approach (DREAM_LLMs) to combin
 
 ## 📄 Citation & Attribution
 
-This repository is part of my participation in:
-
-> **LLMs4OL 2025 Challenge**  
-> International Semantic Web Conference (ISWC 2025)  
-> Task B – Type Taxonomy Discovery
-
 Author: [wpatipon-jaist](https://github.com/wpatipon-jaist)  
 Affiliation: Japan Advanced Institute of Science and Technology (JAIST)
 
