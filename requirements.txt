@@ -1,0 +1,7 @@
+openai
+dotenv
+instructor
+tqdm
+jsonlines
+google-genai
+pandas
